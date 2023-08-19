@@ -1,1 +1,1 @@
-# Fruit-store-system
+# Juice-Bar-Management-System
